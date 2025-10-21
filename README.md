@@ -28,6 +28,9 @@ Current_FeetLift (int)
 
 Drink_Reminder (Countdown int)
 
-state (int) --(lifting / sitting down / adjusting / idle_sitting / idle_standing)
-
 not counting RFID related Variables
+
+# state (int) 
+--(lifting / sitting down / adjusting / idle_sitting / idle_standing)
+
+
